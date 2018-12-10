@@ -9,11 +9,11 @@ body {
 /* choose a light or dark theme to add to the body tag. */
 .dark-theme {
     background-color: #181414;
-    color: #fcfbfb;   
+    color: #fcfbfb;
 }
 .light-theme {
     background-color: white;
-    color: black;    
+    color: black;
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
 /* ******** */
 
 .image {
-    width: 100%;
+    width: 80%;
 }
 
 
@@ -131,12 +131,3 @@ sub-font
     margin-bottom: 2rem;
     font-weight: 400;
 }
-
-
-
-
-
-
-
-
-
