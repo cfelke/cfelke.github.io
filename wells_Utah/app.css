@@ -27,9 +27,10 @@ body {
 }
 
 .align_left {
-	float: left;
-	margin-right: 1em;
-	margin-bottom: 1em;
+   width: 80%;
+	 float: left;
+	 margin-right: 1em;
+	 margin-bottom: 1em;
 }
 
 
