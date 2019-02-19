@@ -8,13 +8,14 @@ body {
 
 /* choose a light or dark theme to add to the body tag. */
 .dark-theme {
-    background-color: #181414;
-    color: #fcfbfb;   
+    background-color: #03875b;
+    color: #fcfbfb;
 }
 .light-theme {
-    background-color: white;
-    color: black;    
+    background-color: #03875b;
+    color: white;
 }
+
 
 .container {
         max-width: 975px;
@@ -42,7 +43,7 @@ sub-font
 .body-text
 .note
 */
-
+p{color: white;}
 
 
 .super-font {
@@ -131,12 +132,3 @@ sub-font
     margin-bottom: 2rem;
     font-weight: 400;
 }
-
-
-
-
-
-
-
-
-
